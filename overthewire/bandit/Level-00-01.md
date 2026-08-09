@@ -45,7 +45,7 @@ The login was successful, confirming that the password was correct.
 
 ## Result
 
-    Password for bandit1: 6y2kwnwK6grgvwvpvLaa2T1cpFEKOhNR
+    Password for bandit1: [REDACTED]
 
 The shell changed to:
 
