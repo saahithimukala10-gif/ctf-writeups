@@ -6,8 +6,8 @@ Bandit is the starting point of the OverTheWire wargames. It focuses on Linux fu
 
 | Level | Writeup | Status |
 | :---: | :-----: | :----: |
-| 0 → 1 | Level-00-01.md | ⬜ |
-| 1 → 2 | Level-01-02.md | ⬜ |
+| 0 → 1 | Level-00-01.md | ✅ |
+| 1 → 2 | Level-01-02.md | ✅ |
 | 2 → 3 | Level-02-03.md | ⬜ |
 | 3 → 4 | Level-03-04.md | ⬜ |
 | 4 → 5 | Level-04-05.md | ⬜ |
