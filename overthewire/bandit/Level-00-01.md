@@ -14,6 +14,8 @@ The connection details provided were:
 
 The username was `bandit0`, and the initial password was also `bandit0`.
 
+![Connecting to bandit0 via SSH](images/bandit-00-01-login.png)
+
 ## Recon
 
 After logging into the server, I listed the contents of the home directory:
@@ -33,9 +35,11 @@ The file was located in the current directory, so there was no need to change di
 ## Exploitation / Solution
 
     $ cat readme
-    6y2kwnwK6grgvwvpvLaa2T1cpFEKOhNR
+    [REDACTED]
 
 The returned value was the password for `bandit1`.
+
+![Listing the home directory and reading readme](images/bandit-00-01-readme.png)
 
 I then used it to connect to the next level:
 
