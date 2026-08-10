@@ -1,7 +1,7 @@
 # Bandit — Level 0 → 1
 
-**Category:** OverTheWire / Bandit
-**Difficulty:** Easy
+**Category:** OverTheWire / Bandit  
+**Difficulty:** Easy  
 **Date:** 2026-08-09
 
 ## Goal
