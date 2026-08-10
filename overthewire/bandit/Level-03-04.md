@@ -42,4 +42,4 @@ Read it with `cat`:
 
 ## Key Takeaway
 
-Files or directories starting with a `.` are hidden from a plain `ls`. Always check with `ls -la` when a password or file isn't where you'd expect.
+The password wasn't in the home directory itself — it was one level down, inside `inhere`, and named `...Hiding-From-You`, a dotfile that a plain `ls` inside that subdirectory wouldn't reveal either. Enumeration needs to go beyond the top-level `ls -la`: check every subdirectory you find, with `-a`, not just the starting one.
