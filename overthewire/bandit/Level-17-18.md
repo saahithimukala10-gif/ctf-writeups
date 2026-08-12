@@ -19,11 +19,11 @@ Ran `diff` to compare the two files directly rather than scanning both by eye:
 
     $ diff passwords.old passwords.new
     42c42
-    < [old password, no longer valid]
+    < qOg5pVOjPx9x9VccyYBADiT4xxyoUB8D
     ---
     > [REDACTED]
 
-![diff output](images/bandit-17-18-diff.png)
+![diff output](images/bandit-17-18-diff-v2.png)
 
 `diff` flagged line 42 as changed (`42c42`), showing the old value on the left (`<`) and the new one on the right (`>`) — the new value was the password for `bandit18`.
 
