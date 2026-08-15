@@ -4,4 +4,4 @@ OverTheWire is a collection of security wargames designed to teach Linux, networ
 
 ## Wargames
 
-- Bandit *(In Progress)*
+- Bandit *(Complete)*

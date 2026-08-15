@@ -7,7 +7,7 @@ The goal of these writeups is to document my thought process, commands, and key 
 ## Platforms
 
 - OverTheWire
-  - Bandit *(In Progress)*
+  - Bandit *(Complete)*
 - picoCTF *(Coming Soon)*
 - TryHackMe *(Coming Soon)*
 - Hack The Box *(Coming Soon)*
