@@ -22,7 +22,7 @@ A normal interactive login connected and then immediately disconnected:
 
 ## Solution
 
-`.bashrc` only runs for interactive shells. Appending a command directly to the `ssh` call runs it non-interactively, skipping `.bashrc` entirely and returning the output before any logout happens:
+`.bashrc` only fires on interactive shells, so I tacked the command straight onto the `ssh` call — that skips `.bashrc` (and the logout) entirely:
 
     $ ssh bandit18@bandit.labs.overthewire.org -p 2220 cat readme
 

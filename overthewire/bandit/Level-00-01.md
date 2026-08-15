@@ -34,4 +34,4 @@ Read it directly with `cat`:
 
 ## Key Takeaway
 
-Basic Bandit workflow: enumerate the home directory, find the readable file holding the next password, `cat` it.
+First level, nothing fancy — `ls`'d the home directory, found `readme`, and `cat`'d it for bandit1's password.

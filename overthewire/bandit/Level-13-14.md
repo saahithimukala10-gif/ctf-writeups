@@ -68,4 +68,4 @@ Once in as `bandit14`, read the password file directly:
 
 ## Key Takeaway
 
-Two separate lessons here: the wargame blocks SSH connections chained from localhost, so a private key found on one level has to be copied to your own machine (`scp`) before it can be used to log into the next; and SSH will silently refuse a private key with overly permissive file permissions, so `chmod 600` is required before it'll load.
+Learned two things the hard way: you can't chain SSH from inside a Bandit session (it blocks localhost logins), so I had to `scp` the key down first — and SSH won't touch a key with loose permissions until you `chmod 600` it.

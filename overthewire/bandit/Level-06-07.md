@@ -14,7 +14,7 @@ The password for `bandit7` was in a file somewhere on the entire filesystem, own
 
 ## Solution
 
-This time the file wasn't confined to the home directory, so the search had to start from filesystem root (`/`) using the exact ownership and size given:
+The file wasn't in the home directory this time, so I searched from `/` using the ownership and size the level gave me:
 
     $ find / -type f -user bandit7 -group bandit6 -size 33c
 

@@ -24,7 +24,7 @@ Right-click being disabled only blocks the context menu, not the browser's other
 
 ![view-source: page showing the oncontextmenu block and the password comment](images/natas-01-02-viewsource.png)
 
-The source also showed *why* right-click was blocked — an `oncontextmenu` handler on `<body>` — confirming it was purely a JavaScript-level restriction, not something that actually prevents reading the page.
+The source also showed why right-click was blocked — just an `oncontextmenu` handler on `<body>`, plain JS, nothing actually stopping me from reading the page.
 
 ## Result
 

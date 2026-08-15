@@ -26,4 +26,4 @@ Since it runs as `bandit27` regardless of caller, used it directly to read the p
 
 ## Key Takeaway
 
-Same technique as level 19→20: a SUID binary that runs an arbitrary command as its owner is a direct route to that owner's files. Recognizing the `rws` permission bit pattern is the trigger to try this immediately rather than looking for something more complex.
+Same technique as level 19→20: a SUID binary that runs an arbitrary command as its owner is a direct route to that owner's files. Seeing that `rws` bit again was enough to know exactly what to try.

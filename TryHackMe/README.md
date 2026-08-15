@@ -1,13 +1,13 @@
 # TryHackMe
 
-TryHackMe combines guided learning paths (structured lessons + rooms) with hands-on vulnerable machines.
+TryHackMe combines structured lessons with hands-on vulnerable machines.
 
 ## Approach
 
-Two kinds of content get tracked differently here:
+I track two kinds of rooms differently:
 
-- **Learning modules/rooms** (Pre Security path — networking fundamentals, OS basics, security concepts): these are conceptual, not exploit-based, so they're logged as a running checklist with brief notes rather than full writeups. See [`PreSecurity.md`](PreSecurity.md).
-- **Practical rooms** (vulnerable machines / standalone challenges with flags to capture): these get a full writeup — goal, recon, exploitation, screenshots — the same format used for OverTheWire, going forward. Already-completed ones are logged in [`Challenges.md`](Challenges.md) without a retroactive writeup unless redone.
+- **Learning modules** (Pre Security path — networking, OS basics, security concepts) are conceptual rather than hands-on, so I just check them off with brief notes in [`PreSecurity.md`](PreSecurity.md).
+- **Practical rooms** (vulnerable machines, standalone challenges) get a full writeup — goal, recon, exploitation, screenshots — same format as my OverTheWire ones. Older completions are just listed in [`Challenges.md`](Challenges.md) unless I go back and redo them.
 
 ## Progress
 

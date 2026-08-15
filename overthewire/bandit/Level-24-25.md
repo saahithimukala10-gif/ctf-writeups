@@ -46,4 +46,4 @@ Eventually one guess landed on the right pincode:
 
 ## Key Takeaway
 
-A 4-digit pincode is only 10,000 possibilities — small enough to brute-force in a single netcat session using shell brace expansion (`{0000..9999}`) rather than needing a dedicated scripting tool. A failed side effect (`tee` unable to write) doesn't necessarily kill the main pipeline; the actual `nc` guessing kept going regardless.
+A 4-digit pincode is only 10,000 possibilities — small enough to brute-force in a single netcat session using shell brace expansion (`{0000..9999}`) rather than needing a dedicated scripting tool. `tee` failing to write didn't matter — the `nc` guessing kept running fine without it.

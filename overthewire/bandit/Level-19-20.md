@@ -21,7 +21,7 @@ Listed the home directory and found `bandit20-do`, owned by `bandit20` with the 
 
 ![ls -l showing the SUID binary](images/bandit-19-20-ls.png)
 
-SUID means the program runs with the permissions of its owner (`bandit20`) regardless of who executes it. Confirmed this by checking the effective user it runs as:
+Since it's SUID it should run as `bandit20` no matter who calls it — checked with `whoami`:
 
     $ ./bandit20-do whoami
     bandit20

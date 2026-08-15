@@ -41,4 +41,4 @@ Since the README was a decoy, checked for git tags — a common place to stash s
 
 ## Key Takeaway
 
-A repo's password can live in places other than tracked files or commit messages — `git tag` lists annotated/lightweight tags, and `git show <tag>` reveals what's attached to one, which is worth checking whenever the working tree and commit log both come up empty.
+A repo's password can live in places other than tracked files or commit messages — `git tag` lists annotated/lightweight tags, and `git show <tag>` reveals what's attached to one, which is exactly where I'd look next time the working tree and commit log both turn up nothing.

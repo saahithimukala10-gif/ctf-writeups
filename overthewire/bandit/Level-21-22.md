@@ -51,4 +51,4 @@ The script writes `bandit22`'s password into a fixed path in `/tmp` and makes it
 
 ## Key Takeaway
 
-Scheduled jobs running as another user are worth tracing when direct access is blocked — `/etc/cron.d/` shows what runs and as whom, and the script it points to revealed a world-readable file the job itself was writing the password into.
+Couldn't read `bandit22`'s password directly, so I traced the cron job instead — `/etc/cron.d/` showed what it runs, and the script it pointed to was writing the password to a world-readable file in `/tmp`.

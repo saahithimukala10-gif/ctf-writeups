@@ -29,4 +29,4 @@ The visible page content had nothing else on it, so the password had to be hidde
 
 ## Key Takeaway
 
-Natas levels can hide information in the page source that never renders visibly in the browser — checking "View Source" (or the dev tools Elements panel) is a first step whenever a level's visible content looks like a dead end.
+The password was sitting in an HTML comment that never showed up on the rendered page — the source is the first place to look when the visible page is empty.

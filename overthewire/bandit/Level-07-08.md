@@ -29,4 +29,4 @@ The password for `bandit8` was in `data.txt`, on the line next to the word `mill
 
 ## Key Takeaway
 
-For large files, searching for a known keyword with `grep` is far faster than opening the whole file — it returns just the matching line instead of dumping millions of lines of unrelated data.
+No way I was scrolling a 4MB file for one line — `grep millionth data.txt` found it instantly.

@@ -21,7 +21,7 @@ Listed the home directory and found `inhere`:
 
 ![ls -la output](images/bandit-03-04-ls.png)
 
-`ls -la` by default only shows hidden files (dotfiles) when you pass `-a`, so going into `inhere` and listing again with `-la` was necessary to spot the hidden file:
+Nothing jumped out in `inhere` at first, so I went in and ran `ls -la` again — that's where the hidden dotfile `...Hiding-From-You` turned up.
 
     $ cd inhere
     $ ls -la
@@ -42,4 +42,4 @@ Read it with `cat`:
 
 ## Key Takeaway
 
-The password wasn't in the home directory — it required `cd`-ing into `inhere` first, then running `ls -la` again to reveal the hidden dotfile `...Hiding-From-You`. Hidden files won't show without `-a`, and subdirectories need to be entered and listed on their own.
+The password wasn't in the home directory — it required `cd`-ing into `inhere` first, then running `ls -la` again to reveal the hidden dotfile `...Hiding-From-You`. Same trick as level 0, just one directory deeper — had to `cd` in before `-la` would show anything.

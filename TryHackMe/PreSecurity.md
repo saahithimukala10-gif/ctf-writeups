@@ -1,6 +1,6 @@
 # TryHackMe — Learning Rooms
 
-Running log of completed guided/walkthrough rooms — conceptual lessons, not standalone exploits, so tracked here as a checklist rather than full writeups. Pulled from the public profile (`tryhackme.com/p/saahithimukala10`) on 2026-08-15.
+Checklist of completed learning rooms — conceptual lessons, not exploits, so no full writeups here. (List as of 2026-08-15, tryhackme.com/p/saahithimukala10.)
 
 | Room | Difficulty | Status |
 | :--- | :---: | :---: |
@@ -28,4 +28,4 @@ Running log of completed guided/walkthrough rooms — conceptual lessons, not st
 
 **20 walkthrough/intro rooms completed, currently on OSI Model.**
 
-Guided vulnerable-machine walkthroughs and standalone challenge rooms are tracked separately in [`Challenges.md`](Challenges.md), since those involve actual exploitation rather than concepts.
+Vulnerable-machine walkthroughs and challenge rooms live in [`Challenges.md`](Challenges.md) instead — those actually involve exploitation.

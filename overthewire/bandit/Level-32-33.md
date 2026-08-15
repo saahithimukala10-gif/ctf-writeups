@@ -22,7 +22,7 @@ Confirmed the restriction: any input gets uppercased and passed to the shell, so
 
 ![Uppershell rejecting a normal lowercase command](images/bandit-32-33-uppershell.png)
 
-Since only letters get transformed, a special variable like `$0` passes through untouched (no letters to uppercase). `$0` expands to the name of the currently running shell — evaluating it re-executes that shell, dropping into a normal, un-uppercased interactive session:
+Only letters get uppercased, so `$0` slips through untouched — and since `$0` is just the shell's own name, evaluating it re-launches a normal shell:
 
     >> $0
     $ ls

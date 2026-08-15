@@ -1,6 +1,6 @@
 # TryHackMe — Challenge & Machine Rooms
 
-Rooms that involve actual exploitation (vulnerable machines or standalone challenges), as opposed to the conceptual lessons tracked in `PreSecurity.md`. Pulled from the public profile on 2026-08-15 — these were completed before this tracking system existed, so they're logged as done without a full writeup. Full writeups (goal/recon/exploitation/screenshots) can be added retroactively if you want to redo and document any of them, and will be the default for new ones going forward.
+Rooms with actual exploitation — vulnerable machines and standalone challenges, not the conceptual stuff in `PreSecurity.md`. I finished these before I started writing things up, so they're just listed for now. I might go back and write full ones for a few; new rooms get the full treatment by default.
 
 ## Guided machine walkthroughs
 

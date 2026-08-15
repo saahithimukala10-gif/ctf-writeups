@@ -1,8 +1,8 @@
 # CTF Writeups
 
-This repository contains my writeups for various Capture The Flag (CTF) challenges and cybersecurity wargames that I complete while learning offensive security.
+Writeups from CTF challenges and wargames I've worked through while learning offensive security.
 
-The goal of these writeups is to document my thought process, commands, and key takeaways—not just the final solution.
+I try to capture my thought process and the commands I used, not just the final flag.
 
 ## Platforms
 

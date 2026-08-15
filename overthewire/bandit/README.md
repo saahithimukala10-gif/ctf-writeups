@@ -1,6 +1,6 @@
 # Bandit
 
-Bandit is the starting point of the OverTheWire wargames. It focuses on Linux fundamentals and basic command-line skills that are essential for cybersecurity.
+Bandit is the first OverTheWire wargame — Linux fundamentals and basic command-line skills.
 
 ## Progress
 
