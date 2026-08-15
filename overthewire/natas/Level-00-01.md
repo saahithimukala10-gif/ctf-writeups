@@ -17,11 +17,11 @@ The rendered page just said "You can find the password for the next level on thi
 
 ## Solution
 
-The visible page content had nothing else on it, so the password had to be hidden in the HTML itself rather than displayed. Viewed the page source:
+The visible page content had nothing else on it, so the password had to be hidden in the HTML itself rather than displayed. Right-clicked and used "Inspect" to open DevTools and read the underlying markup:
 
     <!--The password for natas1 is [REDACTED] -->
 
-![Page source showing the password in an HTML comment](images/natas-00-01-source.png)
+![DevTools Elements panel showing the password in an HTML comment](images/natas-00-01-devtools.png)
 
 ## Result
 
