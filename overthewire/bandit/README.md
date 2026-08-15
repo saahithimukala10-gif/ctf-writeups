@@ -38,5 +38,6 @@ Bandit is the starting point of the OverTheWire wargames. It focuses on Linux fu
 | 29 → 30 | Level-29-30.md | ✅ |
 | 30 → 31 | Level-30-31.md | ✅ |
 | 31 → 32 | Level-31-32.md | ✅ |
-| 32 → 33 | Level-32-33.md | ⬜ |
-| 33 → 34 | Level-33-34.md | ⬜ |
+| 32 → 33 | Level-32-33.md | ✅ |
+
+Level 33 is the final level of Bandit — its `README.txt` confirms there are currently no further levels.
