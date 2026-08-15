@@ -5,3 +5,4 @@ OverTheWire is a collection of security wargames designed to teach Linux, networ
 ## Wargames
 
 - Bandit *(Complete)*
+- Natas *(In Progress)*

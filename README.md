@@ -8,6 +8,5 @@ The goal of these writeups is to document my thought process, commands, and key 
 
 - OverTheWire
   - Bandit *(Complete)*
-- picoCTF *(Coming Soon)*
-- TryHackMe *(Coming Soon)*
-- Hack The Box *(Coming Soon)*
+  - Natas *(In Progress)*
+- TryHackMe *(In Progress)*
