@@ -6,7 +6,7 @@ Rooms with actual exploitation — vulnerable machines and standalone challenges
 
 | Room | Difficulty | Notes | Writeup |
 | :--- | :---: | :--- | :---: |
-| Bebop | easy | Firefly-themed vulnerable machine | — |
+| Bebop | easy | Firefly-themed vulnerable machine | [Writeup](Bebop.md) |
 
 ## Standalone challenges
 
@@ -19,4 +19,4 @@ Rooms with actual exploitation — vulnerable machines and standalone challenges
 | Room 404 | easy | Hidden service enumeration | — |
 | Complimentary | easy | Overprivileged app permissions | — |
 
-**6 challenge rooms + 1 guided machine completed, no writeups yet.**
+**6 challenge rooms + 1 guided machine completed.** Bebop has a full writeup now; the rest are still just logged.
