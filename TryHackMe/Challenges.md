@@ -19,4 +19,3 @@ Rooms with actual exploitation — vulnerable machines and standalone challenges
 | Room 404 | easy | Hidden service enumeration | — |
 | Complimentary | easy | Overprivileged app permissions | — |
 
-**6 challenge rooms + 1 guided machine completed.** Bebop has a full writeup now; the rest are still just logged.
