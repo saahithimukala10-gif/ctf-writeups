@@ -13,7 +13,7 @@ Rooms with actual exploitation — vulnerable machines and standalone challenges
 | Room | Difficulty | Notes | Writeup |
 | :--- | :---: | :--- | :---: |
 | Pickle Rick | easy | Rick and Morty CTF | [Writeup](PickleRick.md) |
-| Neighbour | easy | Cloud auth service, finding other users' secrets | — |
+| Neighbour | easy | Cloud auth service, finding other users' secrets | [Writeup](Neighbour.md) |
 | Fools Mate | easy | Bypassing a chess engine | — |
 | The Concierge Knows Too Much | easy | Prompt injection / AI security | — |
 | Room 404 | easy | Hidden service enumeration | — |
