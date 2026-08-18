@@ -2,7 +2,8 @@
 
 **Category:** OverTheWire / Bandit  
 **Difficulty:** Easy  
-**Date:** 2026-08-11
+**Date:** 2026-08-11  
+**Level page:** [bandit9.html](https://overthewire.org/wargames/bandit/bandit9.html)
 
 ## Goal
 
