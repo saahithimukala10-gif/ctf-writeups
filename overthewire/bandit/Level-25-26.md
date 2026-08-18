@@ -2,7 +2,8 @@
 
 **Category:** OverTheWire / Bandit  
 **Difficulty:** Hard  
-**Date:** 2026-08-14
+**Date:** 2026-08-14  
+**Level page:** [bandit25.html](https://overthewire.org/wargames/bandit/bandit25.html)
 
 ## Goal
 
