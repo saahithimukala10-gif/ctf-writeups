@@ -2,7 +2,8 @@
 
 **Category:** OverTheWire / Natas  
 **Difficulty:** Medium  
-**Date:** 2026-08-17
+**Date:** 2026-08-17  
+**Level page:** [natas10.html](https://overthewire.org/wargames/natas/natas10.html)
 
 ## Goal
 
