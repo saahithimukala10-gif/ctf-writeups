@@ -18,4 +18,5 @@ Rooms with actual exploitation — vulnerable machines and standalone challenges
 | The Concierge Knows Too Much | easy | Prompt injection / AI security | [Writeup](writeups/ConciergeKnowsTooMuch.md) |
 | Room 404 | easy | Hidden service enumeration | — |
 | Complimentary | easy | Overprivileged app permissions | — |
+| Bounty Hacker | easy | FTP creds, SSH brute-force, tar GTFOBins privesc | [Writeup](writeups/BountyHacker.md) |
 
