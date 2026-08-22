@@ -7,3 +7,11 @@ Running notes for the TryHackMe Pre Security path, organized by module. Each lin
 - [Offensive Security Intro](Module%201%20-%20Introduction%20to%20Cyber%20Security/Offensive%20Security%20Intro.md)
 - [Defensive Security Intro](Module%201%20-%20Introduction%20to%20Cyber%20Security/Defensive%20Security%20Intro.md)
 - [Careers in Cyber](Module%201%20-%20Introduction%20to%20Cyber%20Security/Careers%20in%20Cyber.md)
+
+## Module 2 - Computer Fundamentals
+
+- [Inside a Computer System](Module%202%20-%20Computer%20Fundamentals/Inside%20a%20Computer%20System.md)
+- [Computer Types](Module%202%20-%20Computer%20Fundamentals/Computer%20Types.md)
+- [Client-Server Basics](Module%202%20-%20Computer%20Fundamentals/Client-Server%20Basics.md)
+- [Virtualisation Basics](Module%202%20-%20Computer%20Fundamentals/Virtualisation%20Basics.md)
+- [Cloud Computing Fundamentals](Module%202%20-%20Computer%20Fundamentals/Cloud%20Computing%20Fundamentals.md)
