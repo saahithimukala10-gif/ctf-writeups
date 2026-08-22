@@ -23,3 +23,11 @@ Running notes for the TryHackMe Pre Security path, organized by module. Each lin
 - [Linux CLI Basics](Module%203%20-%20Operating%20Systems%20Basics/Linux%20CLI%20Basics.md)
 - [Windows CLI Basics](Module%203%20-%20Operating%20Systems%20Basics/Windows%20CLI%20Basics.md)
 - [Operating System Security](Module%203%20-%20Operating%20Systems%20Basics/Operating%20System%20Security.md)
+
+## Module 4 - Software Basics
+
+- [Data Representation](Module%204%20-%20Software%20Basics/Data%20Representation.md)
+- [Data Encoding](Module%204%20-%20Software%20Basics/Data%20Encoding.md)
+- [Python: Simple Demo](Module%204%20-%20Software%20Basics/Python%20Simple%20Demo.md)
+- [JavaScript: Simple Demo](Module%204%20-%20Software%20Basics/JavaScript%20Simple%20Demo.md)
+- [Database SQL Basics](Module%204%20-%20Software%20Basics/Database%20SQL%20Basics.md)
