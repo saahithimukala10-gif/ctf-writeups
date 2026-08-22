@@ -31,3 +31,11 @@ Running notes for the TryHackMe Pre Security path, organized by module. Each lin
 - [Python: Simple Demo](Module%204%20-%20Software%20Basics/Python%20Simple%20Demo.md)
 - [JavaScript: Simple Demo](Module%204%20-%20Software%20Basics/JavaScript%20Simple%20Demo.md)
 - [Database SQL Basics](Module%204%20-%20Software%20Basics/Database%20SQL%20Basics.md)
+
+## Module 5 - Network Fundamentals
+
+- [What is Networking?](Module%205%20-%20Network%20Fundamentals/What%20is%20Networking.md)
+- [Intro to LAN](Module%205%20-%20Network%20Fundamentals/Intro%20to%20LAN.md)
+- [OSI Model](Module%205%20-%20Network%20Fundamentals/OSI%20Model.md)
+- [Packets and Frames](Module%205%20-%20Network%20Fundamentals/Packets%20and%20Frames.md)
+- [Extending Your Network](Module%205%20-%20Network%20Fundamentals/Extending%20Your%20Network.md)
