@@ -39,3 +39,12 @@ Running notes for the TryHackMe Pre Security path, organized by module. Each lin
 - [OSI Model](Module%205%20-%20Network%20Fundamentals/OSI%20Model.md)
 - [Packets and Frames](Module%205%20-%20Network%20Fundamentals/Packets%20and%20Frames.md)
 - [Extending Your Network](Module%205%20-%20Network%20Fundamentals/Extending%20Your%20Network.md)
+
+## Module 6 - How The Web Works
+
+- [DNS in Detail](Module%206%20-%20How%20The%20Web%20Works/DNS%20in%20Detail.md)
+- [HTTP in Detail](Module%206%20-%20How%20The%20Web%20Works/HTTP%20in%20Detail.md)
+- [How Websites Work](Module%206%20-%20How%20The%20Web%20Works/How%20Websites%20Work.md)
+- [Putting it all together](Module%206%20-%20How%20The%20Web%20Works/Putting%20it%20all%20together.md)
+
+**26 topics completed across 6 modules — currently in progress on Module 7.**
