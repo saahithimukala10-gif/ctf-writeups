@@ -1,31 +1,9 @@
-# TryHackMe — Learning Rooms
+# TryHackMe — Learning Paths: Pre Security
 
-Checklist of completed learning rooms — conceptual lessons, not exploits, so no full writeups here. (List as of 2026-08-15, tryhackme.com/p/saahithimukala10.)
+Running notes for the TryHackMe Pre Security path, organized by module. Each linked file is a short key-points/revision writeup for that topic — not a full writeup, since these are conceptual lessons rather than exploits. Vulnerable-machine walkthroughs and challenge rooms live in [`Challenges.md`](../../Challenges/Challenges.md) instead.
 
-| Room | Difficulty | Status |
-| :--- | :---: | :---: |
-| What is Networking? | info | ✅ |
-| Intro to LAN | info | ✅ |
-| Client-Server Basics | easy | ✅ |
-| Inside a Computer System | easy | ✅ |
-| Computer Types | easy | ✅ |
-| Operating Systems: Introduction | easy | ✅ |
-| Operating System Security | easy | ✅ |
-| Windows Basics | easy | ✅ |
-| Windows CLI Basics | easy | ✅ |
-| Linux CLI Basics | easy | ✅ |
-| Virtualisation Basics | easy | ✅ |
-| Cloud Computing Fundamentals | easy | ✅ |
-| Data Representation | easy | ✅ |
-| Data Encoding | easy | ✅ |
-| JavaScript: Simple Demo | medium | ✅ |
-| Python: Simple Demo | easy | ✅ |
-| Database SQL Basics | easy | ✅ |
-| Careers in Cyber | easy | ✅ |
-| Offensive Security Intro | easy | ✅ |
-| Defensive Security Intro | info | ✅ |
-| **OSI Model** | — | 🔄 In Progress |
+## Module 1 - Introduction to Cyber Security
 
-**20 walkthrough/intro rooms completed, currently on OSI Model.**
-
-Vulnerable-machine walkthroughs and challenge rooms live in [`Challenges.md`](Challenges.md) instead — those actually involve exploitation.
+- [Offensive Security Intro](Module%201%20-%20Introduction%20to%20Cyber%20Security/Offensive%20Security%20Intro.md)
+- [Defensive Security Intro](Module%201%20-%20Introduction%20to%20Cyber%20Security/Defensive%20Security%20Intro.md)
+- [Careers in Cyber](Module%201%20-%20Introduction%20to%20Cyber%20Security/Careers%20in%20Cyber.md)
