@@ -15,3 +15,11 @@ Running notes for the TryHackMe Pre Security path, organized by module. Each lin
 - [Client-Server Basics](Module%202%20-%20Computer%20Fundamentals/Client-Server%20Basics.md)
 - [Virtualisation Basics](Module%202%20-%20Computer%20Fundamentals/Virtualisation%20Basics.md)
 - [Cloud Computing Fundamentals](Module%202%20-%20Computer%20Fundamentals/Cloud%20Computing%20Fundamentals.md)
+
+## Module 3 - Operating Systems Basics
+
+- [Operating Systems Introduction](Module%203%20-%20Operating%20Systems%20Basics/Operating%20Systems%20Introduction.md)
+- [Windows Basics](Module%203%20-%20Operating%20Systems%20Basics/Windows%20Basics.md)
+- [Linux CLI Basics](Module%203%20-%20Operating%20Systems%20Basics/Linux%20CLI%20Basics.md)
+- [Windows CLI Basics](Module%203%20-%20Operating%20Systems%20Basics/Windows%20CLI%20Basics.md)
+- [Operating System Security](Module%203%20-%20Operating%20Systems%20Basics/Operating%20System%20Security.md)
