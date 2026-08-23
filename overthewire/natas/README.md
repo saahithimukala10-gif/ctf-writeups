@@ -21,7 +21,7 @@ Natas is OverTheWire's web security wargame — each level is a website where th
 | 12 → 13 | Level-12-13.md | ✅ |
 | 13 → 14 | Level-13-14.md | ✅ |
 | 14 → 15 | Level-14-15.md | ✅ |
-| 15 → 16 | Level-15-16.md | ⬜ |
+| 15 → 16 | Level-15-16.md | ✅ |
 | 16 → 17 | Level-16-17.md | ⬜ |
 | 17 → 18 | Level-17-18.md | ⬜ |
 | 18 → 19 | Level-18-19.md | ⬜ |
