@@ -19,4 +19,5 @@ Rooms with actual exploitation — vulnerable machines and standalone challenges
 | Room 404 | easy | Hidden service enumeration | — |
 | Complimentary | easy | Overprivileged app permissions | — |
 | Bounty Hacker | easy | FTP creds, SSH brute-force, tar GTFOBins privesc | [Writeup](writeups/BountyHacker.md) |
+| Agent T | easy | PHP 8.1.0-dev "User-Agentt" backdoor RCE, straight to root | [Writeup](writeups/AgentT.md) |
 
