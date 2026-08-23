@@ -2,8 +2,7 @@
 
 **Category:** OverTheWire / Bandit  
 **Difficulty:** Medium  
-**Date:** 2026-08-15  
-**Level page:** [bandit31.html](https://overthewire.org/wargames/bandit/bandit31.html)
+**Date:** 2026-08-15
 
 ## Goal
 
