@@ -16,6 +16,6 @@ I split the work here into two tracks, since they call for different kinds of do
 | :--- | :--- |
 | Pre Security / learning rooms | 29 completed — currently on **Module 7: Attacks and Defenses** (next up: Become a Hacker) |
 | Challenge / machine rooms | 9 completed, all with full writeups |
-| Profile stats | 35-day streak · Top 20% rank · 9 badges · 35 rooms completed |
+| Profile stats | 37-day streak · Top 15% rank · 9 badges · 38 rooms completed |
 
 *Last updated: 2026-08-24.*
