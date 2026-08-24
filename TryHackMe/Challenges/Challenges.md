@@ -16,7 +16,7 @@ Rooms with actual exploitation — vulnerable machines and standalone challenges
 | Neighbour | easy | Cloud auth service, finding other users' secrets | [Writeup](writeups/Neighbour.md) |
 | Fools Mate | easy | Bypassing a chess engine | [Writeup](writeups/FoolsMate.md) |
 | The Concierge Knows Too Much | easy | Prompt injection / AI security | [Writeup](writeups/ConciergeKnowsTooMuch.md) |
-| Room 404 | easy | Hidden service enumeration | — |
+| Room 404 | easy | Exposed .git directory dump, flag in README.md history | [Writeup](writeups/Room404.md) |
 | Complimentary | easy | Overprivileged app permissions | — |
 | Bounty Hacker | easy | FTP creds, SSH brute-force, tar GTFOBins privesc | [Writeup](writeups/BountyHacker.md) |
 | Agent T | easy | PHP 8.1.0-dev "User-Agentt" backdoor RCE, straight to root | [Writeup](writeups/AgentT.md) |
