@@ -1,6 +1,6 @@
 # TryHackMe — Challenge & Machine Rooms
 
-Rooms with actual exploitation — vulnerable machines and standalone challenges, not the conceptual stuff in `../Learning Paths/PreSecurity.md`. I finished these before I started writing things up, so they're just listed for now. I might go back and write full ones for a few; new rooms get the full treatment by default.
+Rooms with actual exploitation — vulnerable machines and standalone challenges, not the conceptual stuff in [`Pre Security`](../Learning%20Paths/Pre%20Security/README.md).
 
 ## Guided machine walkthroughs
 
