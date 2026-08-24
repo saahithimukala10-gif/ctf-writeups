@@ -6,11 +6,11 @@ TryHackMe combines structured lessons with hands-on vulnerable machines.
 
 I track two kinds of rooms differently:
 
-- **Learning modules** (Pre Security path — networking, OS basics, security concepts) are conceptual rather than hands-on, so I just check them off with brief notes in [`PreSecurity.md`](Learning%20Paths/PreSecurity.md).
-- **Practical rooms** (vulnerable machines, standalone challenges) get a full writeup — goal, recon, exploitation, screenshots — same format as my OverTheWire ones. Older completions are just listed in [`Challenges.md`](Challenges/Challenges.md) unless I go back and redo them.
+- **Learning modules** (Pre Security path — networking, OS basics, security concepts) are conceptual rather than hands-on, so I just check them off with brief running notes in [`Pre Security`](Learning%20Paths/Pre%20Security/README.md).
+- **Practical rooms** (vulnerable machines, standalone challenges) get a full writeup — goal, recon, exploitation, screenshots — same format as my OverTheWire ones. See [`Challenges.md`](Challenges/Challenges.md).
 
 ## Progress
 
-- Pre Security / learning rooms: 20 completed, currently on **OSI Model**. See [`PreSecurity.md`](Learning%20Paths/PreSecurity.md).
-- Challenge / machine rooms: 7 completed (no writeups yet — pre-dates this tracking system). See [`Challenges.md`](Challenges/Challenges.md).
-- Level 5, 1694 points, 27-day streak, Top 30% (as of 2026-08-15).
+- Pre Security / learning rooms: 29 completed, currently on **Module 7 — Attacks and Defenses** (Become a Hacker next). See [`Pre Security`](Learning%20Paths/Pre%20Security/README.md).
+- Challenge / machine rooms: 9 completed, all with full writeups. See [`Challenges.md`](Challenges/Challenges.md).
+- 35-day streak, Top 20% rank, 9 badges, 35 rooms completed (as of 2026-08-23).
