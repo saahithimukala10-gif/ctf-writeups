@@ -1,6 +1,6 @@
 # TryHackMe — Learning Paths: Pre Security
 
-Running notes for the TryHackMe Pre Security path, organized by module. Each linked file is a short key-points/revision writeup for that topic — not a full writeup, since these are conceptual lessons rather than exploits. Vulnerable-machine walkthroughs and challenge rooms live in [`Challenges.md`](../../Challenges/Challenges.md) instead.
+Running notes for the TryHackMe Pre Security path, organized by module. Each linked file is a short key-points/revision note for that topic — not a full writeup, since these are conceptual lessons rather than exploits. Vulnerable-machine walkthroughs and challenge rooms live in [`Challenges.md`](../../Challenges/Challenges.md) instead.
 
 **Path complete — see the [certificate of completion](Certificate.pdf).**
 
