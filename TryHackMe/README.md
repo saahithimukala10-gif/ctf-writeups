@@ -6,9 +6,9 @@
 
 I split the work here into two tracks, since they call for different kinds of documentation:
 
-**Learning modules** — currently Pre Security (networking, OS basics, security concepts) and SOC Level 1 (blue team / SOC analyst fundamentals) — are conceptual rather than hands-on. For these I keep short running notes per topic, organized by module/section, rather than full writeups. See [`Pre Security`](Learning%20Paths/Pre%20Security/README.md) and [`SOC Level 1`](Learning%20Paths/SOC%20Level%201/README.md).
+**For Learning Paths** (Pre Security and SOC Level 1 so far) I keep it lightweight: a short key-points note per topic, organized by module/section, rather than a full writeup. These are knowledge-building rooms, not exploitation. See [`Pre Security`](Learning%20Paths/Pre%20Security/README.md) and [`SOC Level 1`](Learning%20Paths/SOC%20Level%201/README.md).
 
-**Practical rooms** — vulnerable machines and standalone challenges — get the full treatment: goal, recon, exploitation steps, and screenshots, in the same format as my OverTheWire writeups. See [`Challenges.md`](Challenges/Challenges.md).
+**Hands-on rooms** (vulnerable machines, standalone challenges) get documented properly: goal, recon, exploitation steps, screenshots — matching my OverTheWire writeups. See [`Challenges.md`](Challenges/Challenges.md).
 
 ## Progress
 
