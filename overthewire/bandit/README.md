@@ -41,3 +41,5 @@ Bandit is the first OverTheWire wargame — Linux fundamentals and basic command
 | 32 → 33 | Level-32-33.md | ✅ |
 
 Level 33 is the final level of Bandit — its `README.txt` confirms there are currently no further levels.
+
+**33/33 levels — Bandit complete.**
