@@ -47,4 +47,11 @@ Running notes for the TryHackMe Pre Security path, organized by module. Each lin
 - [How Websites Work](Module%206%20-%20How%20The%20Web%20Works/How%20Websites%20Work.md)
 - [Putting it all together](Module%206%20-%20How%20The%20Web%20Works/Putting%20it%20all%20together.md)
 
-**26 topics completed across 6 modules — currently in progress on Module 7.**
+## Module 7 - Attacks and Defenses
+
+- [CIA Triad](Module%207%20-%20Attacks%20and%20Defenses/CIA%20Triad.md)
+- [Cryptography Concepts](Module%207%20-%20Attacks%20and%20Defenses/Cryptography%20Concepts.md)
+- [Become a Hacker](Module%207%20-%20Attacks%20and%20Defenses/Become%20a%20Hacker.md)
+- [Become a Defender](Module%207%20-%20Attacks%20and%20Defenses/Become%20a%20Defender.md)
+
+**31 topics completed across 7 modules — Pre Security learning path complete.**
