@@ -1,12 +1,8 @@
 # CTF Writeups
 
-Writeups from CTF challenges and wargames I've worked through while learning offensive security.
-
-I try to capture my thought process and the commands I used, not just the final flag.
+Writeups from CTF challenges and wargames I've worked through while learning offensive security. I try to capture my thought process and the commands I used, not just the final flag.
 
 ## Platforms
 
-- OverTheWire
-  - Bandit *(Complete)*
-  - Natas *(In Progress)*
-- TryHackMe *(In Progress)*
+- **OverTheWire** — [Bandit](overthewire/bandit/README.md) *(Complete)* · [Natas](overthewire/natas/README.md) *(In Progress)*
+- **TryHackMe** — [full breakdown](TryHackMe/README.md) *(In Progress)*
