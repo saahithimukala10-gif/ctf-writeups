@@ -6,5 +6,7 @@ Running notes for the TryHackMe SOC Level 1 path, organized by section. Each lin
 
 - [Junior Security Analyst Intro](Section%201%20-%20Blue%20Team%20Introduction/Junior%20Security%20Analyst%20Intro.md)
 - [SOC Role in Blue Team](Section%201%20-%20Blue%20Team%20Introduction/SOC%20Role%20in%20Blue%20Team.md)
+- [Humans as Attack Vectors](Section%201%20-%20Blue%20Team%20Introduction/Humans%20as%20Attack%20Vectors.md)
+- [Systems as Attack Vectors](Section%201%20-%20Blue%20Team%20Introduction/Systems%20as%20Attack%20Vectors.md)
 
-**2 topics completed — in progress on Section 1: Blue Team Introduction.**
+**4 topics completed — Section 1: Blue Team Introduction complete, moving on to Section 2: SOC Team Internals.**
