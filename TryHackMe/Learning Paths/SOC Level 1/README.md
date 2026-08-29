@@ -10,3 +10,8 @@ Running notes for the TryHackMe SOC Level 1 path, organized by section. Each lin
 - [Systems as Attack Vectors](Section%201%20-%20Blue%20Team%20Introduction/Systems%20as%20Attack%20Vectors.md)
 
 **4 topics completed — Section 1: Blue Team Introduction complete, moving on to Section 2: SOC Team Internals.**
+
+## Section 2 - SOC Team Internals
+
+- [SOC L1 Alert Triage](Section%202%20-%20SOC%20Team%20Internals/SOC%20L1%20Alert%20Triage.md)
+- [SOC L1 Alert Reporting](Section%202%20-%20SOC%20Team%20Internals/SOC%20L1%20Alert%20Reporting.md)
