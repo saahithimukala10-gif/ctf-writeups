@@ -15,3 +15,5 @@ Running notes for the TryHackMe SOC Level 1 path, organized by section. Each lin
 
 - [SOC L1 Alert Triage](Section%202%20-%20SOC%20Team%20Internals/SOC%20L1%20Alert%20Triage.md)
 - [SOC L1 Alert Reporting](Section%202%20-%20SOC%20Team%20Internals/SOC%20L1%20Alert%20Reporting.md)
+
+**6 topics completed — in progress on Section 2: SOC Team Internals.**
