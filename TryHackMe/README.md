@@ -15,8 +15,8 @@ I split the work here into two tracks, since they call for different kinds of do
 | | |
 | :--- | :--- |
 | Pre Security / learning rooms | 31 completed — **path complete**, [certificate](Learning%20Paths/Pre%20Security/Certificate.pdf) |
-| SOC Level 1 / learning rooms | 4 completed — Section 1 complete, in progress. See [`SOC Level 1`](Learning%20Paths/SOC%20Level%201/README.md) |
+| SOC Level 1 / learning rooms | 6 completed — in progress on Section 2: SOC Team Internals. See [`SOC Level 1`](Learning%20Paths/SOC%20Level%201/README.md) |
 | Challenge / machine rooms | 9 completed, all with full writeups |
 | Profile stats | 37-day streak · Top 15% rank · 9 badges · 38 rooms completed |
 
-*Last updated: 2026-08-26.*
+*Last updated: 2026-08-27.*
