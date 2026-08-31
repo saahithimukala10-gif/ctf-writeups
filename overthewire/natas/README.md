@@ -44,3 +44,5 @@ Natas is OverTheWire's web security wargame. Each level is a small website, and 
 Level 33→34 was the last one: PHAR deserialization to get code execution past a hardcoded, unbrute-forceable MD5 check. A fitting way to close it out.
 
 **34/34 levels — Natas complete.**
+
+![natas34 confirming there's no level beyond it: "Congratulations! You have reached the end... for now."](images/natas-34-end-of-wargame.png)
