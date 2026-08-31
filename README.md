@@ -4,5 +4,5 @@ A running log of CTF challenges and wargames I've worked through while learning 
 
 ## Platforms
 
-- **OverTheWire** — [Bandit](overthewire/bandit/README.md) *(Complete)* · [Natas](overthewire/natas/README.md) *(Complete)* — both wargames finished start to finish
+- **OverTheWire** — [Bandit](overthewire/bandit/README.md) *(Complete)* · [Natas](overthewire/natas/README.md) *(Complete)* · [Leviathan](overthewire/leviathan/README.md) *(In Progress)* — Bandit and Natas done start to finish, now working through Leviathan
 - **TryHackMe** — [full breakdown](TryHackMe/README.md) *(In Progress)*
