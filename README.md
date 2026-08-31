@@ -4,5 +4,5 @@ Writeups from CTF challenges and wargames I've worked through while learning off
 
 ## Platforms
 
-- **OverTheWire** — [Bandit](overthewire/bandit/README.md) *(Complete)* · [Natas](overthewire/natas/README.md) *(In Progress)*
+- **OverTheWire** — [Bandit](overthewire/bandit/README.md) *(Complete)* · [Natas](overthewire/natas/README.md) *(Complete)*
 - **TryHackMe** — [full breakdown](TryHackMe/README.md) *(In Progress)*
