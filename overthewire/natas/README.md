@@ -38,5 +38,6 @@ Natas is OverTheWire's web security wargame — each level is a website where th
 | 29 → 30 | Level-29-30.md | ✅ |
 | 30 → 31 | Level-30-31.md | ✅ |
 | 31 → 32 | Level-31-32.md | ✅ |
+| 32 → 33 | Level-32-33.md | ✅ |
 
-**32/34 levels completed — in progress.** *(Natas runs from level 0 to level 34 — 34 transitions in total, ending at 33 → 34.)*
+**33/34 levels completed — in progress.** *(Natas runs from level 0 to level 34 — 34 transitions in total, ending at 33 → 34.)*
