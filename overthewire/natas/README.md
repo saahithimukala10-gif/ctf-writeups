@@ -1,6 +1,6 @@
 # Natas
 
-Natas is OverTheWire's web security wargame — each level is a website where the goal is to find the password for the next level, usually hidden in source code, cookies, headers, or a web-based vulnerability (SQLi, XSS, path traversal, etc.).
+Natas is OverTheWire's web security wargame. Each level is a small website, and the goal never changes — find the password to the next level, usually buried in source code, cookies, headers, or an actual vulnerability (SQLi, XSS, path traversal, deserialization, and further afield).
 
 ## Progress
 
@@ -40,5 +40,7 @@ Natas is OverTheWire's web security wargame — each level is a website where th
 | 31 → 32 | Level-31-32.md | ✅ |
 | 32 → 33 | Level-32-33.md | ✅ |
 | 33 → 34 | Level-33-34.md | ✅ |
+
+Level 33→34 was the last one: PHAR deserialization to get code execution past a hardcoded, unbrute-forceable MD5 check. A fitting way to close it out.
 
 **34/34 levels — Natas complete.**
