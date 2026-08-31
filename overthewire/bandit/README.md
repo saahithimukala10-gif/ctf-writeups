@@ -1,6 +1,6 @@
 # Bandit
 
-Bandit is the first OverTheWire wargame — Linux fundamentals and basic command-line skills.
+Bandit is the entry point into OverTheWire. It assumes basically nothing and builds up Linux and command-line fundamentals level by level — this is where I started.
 
 ## Progress
 
@@ -40,6 +40,6 @@ Bandit is the first OverTheWire wargame — Linux fundamentals and basic command
 | 31 → 32 | Level-31-32.md | ✅ |
 | 32 → 33 | Level-32-33.md | ✅ |
 
-Level 33 is the final level of Bandit — its `README.txt` confirms there are currently no further levels.
+Level 33 turned out to be the last one — its `README.txt` confirms there's currently nothing beyond it.
 
 **33/33 levels — Bandit complete.**
