@@ -16,5 +16,6 @@ Running notes for the TryHackMe SOC Level 1 path, organized by section. Each lin
 - [SOC L1 Alert Triage](Section%202%20-%20SOC%20Team%20Internals/SOC%20L1%20Alert%20Triage.md)
 - [SOC L1 Alert Reporting](Section%202%20-%20SOC%20Team%20Internals/SOC%20L1%20Alert%20Reporting.md)
 - [SOC Workbooks and Lookups](Section%202%20-%20SOC%20Team%20Internals/SOC%20Workbooks%20and%20Lookups.md)
+- [SOC Metrics and Objectives](Section%202%20-%20SOC%20Team%20Internals/SOC%20Metrics%20and%20Objectives.md)
 
-**7 topics completed — in progress on Section 2: SOC Team Internals.**
+**8 topics completed — Section 2 concepts complete. The remaining room in this section, Introduction to Phishing (a SOC Simulator scenario), is hands-on and will get a full writeup in [`Challenges.md`](../../Challenges/Challenges.md) instead.**
